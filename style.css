@@ -93,6 +93,5 @@
   }
 
   .capa-do-livro-1 {
-    font-size: 20px;
-
+    align-items: first baseline;
   }
